@@ -1,1 +1,1 @@
-"# TecnicasReunidas" 
+Creación del fichero readme
