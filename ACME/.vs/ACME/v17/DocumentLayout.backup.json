@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -183,10 +191,6 @@
       "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\addvisita.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\producto\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\producto\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -229,10 +233,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -334,7 +334,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -354,46 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Add.cshtml",
-              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Add.cshtml",
-              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Add.cshtml",
-              "RelativeToolTip": "ACME.Web\\Pages\\Cliente\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T19:33:15.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Index.cshtml",
-              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Index.cshtml",
-              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T11:47:22.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
-              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswDoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T10:08:55.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Edit.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Edit.cshtml",
@@ -406,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Index.cshtml.cs",
@@ -419,20 +380,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "ACME.RestService\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAALsAAAAAAAAAAAAIwMkAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAN0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T20:41:36.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UsuarioDto.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Common\\Dtos\\UsuarioDto.cs",
               "RelativeDocumentMoniker": "ACME.Common\\Dtos\\UsuarioDto.cs",
@@ -445,20 +406,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Add.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Add.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Add.cshtml.cs",
               "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Add.cshtml.cs",
               "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Add.cshtml.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAuwFQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAawDcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T20:32:28.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T10:26:00.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:24:12.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:08:55.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T11:47:22.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Add.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Add.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Add.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Cliente\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T19:33:15.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Edit.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Edit.cshtml",
@@ -471,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Add.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Add.cshtml",
@@ -484,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Rol\\Index.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Rol\\Index.cshtml",
@@ -497,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "RolController.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\RolController.cs",
               "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\RolController.cs",
@@ -510,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Edit.cshtml.cs",
@@ -523,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Index.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Index.cshtml",
@@ -536,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Add.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Add.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Add.cshtml.cs",
@@ -549,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "VisitasController.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\VisitasController.cs",
               "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\VisitasController.cs",
@@ -562,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\ClientesController.cs",
@@ -575,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Edit.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Edit.cshtml",
@@ -588,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Edit.cshtml.cs",
@@ -601,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Edit.cshtml.cs",
@@ -614,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Add.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Add.cshtml",
@@ -627,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Add.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Add.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Add.cshtml.cs",
@@ -640,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Index.cshtml.cs",
@@ -653,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Index.cshtml.cs",
@@ -666,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Edit.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Edit.cshtml",
@@ -679,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\ProductosController.cs",
@@ -692,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Index.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Index.cshtml",
@@ -705,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Index.cshtml.cs",
@@ -718,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Edit.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Edit.cshtml",
@@ -731,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "VentasController.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\VentasController.cs",
               "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\VentasController.cs",
@@ -744,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Delete.cshtml.cs",
@@ -757,7 +783,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Index.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Index.cshtml",
@@ -770,7 +796,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Edit.cshtml.cs",
@@ -783,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Index.cshtml.cs",
@@ -796,7 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "DeleteVenta.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml.cs",
@@ -809,7 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "EditarVenta.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\EditarVenta.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\EditarVenta.cshtml",
@@ -822,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "EditarVenta.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\EditarVenta.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\EditarVenta.cshtml.cs",
@@ -835,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Index.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Index.cshtml",
@@ -848,7 +874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "DeleteVenta.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml",
@@ -861,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "AddVenta.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVenta.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\AddVenta.cshtml.cs",
@@ -874,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "AddVisita.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVisita.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\AddVisita.cshtml.cs",
@@ -887,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Delete.cshtml.cs",
@@ -900,7 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Usuarios.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\Models\\Usuarios.cs",
               "RelativeDocumentMoniker": "ACME.RestService\\Repositories\\Models\\Usuarios.cs",
@@ -913,7 +939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "AddVisita.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVisita.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\AddVisita.cshtml",
@@ -926,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "Visitas.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\Models\\Visitas.cs",
               "RelativeDocumentMoniker": "ACME.RestService\\Repositories\\Models\\Visitas.cs",
@@ -939,20 +965,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
-              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T10:24:12.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Delete.cshtml.cs",
@@ -965,7 +978,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Delete.cshtml.cs",
@@ -978,7 +991,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "VentaDto.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Common\\Dtos\\VentaDto.cs",
               "RelativeDocumentMoniker": "ACME.Common\\Dtos\\VentaDto.cs",
@@ -991,7 +1004,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Delete.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Delete.cshtml",
@@ -1004,7 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Delete.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Delete.cshtml",
@@ -1017,7 +1030,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "Ventas.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Models\\Ventas.cs",
               "RelativeDocumentMoniker": "ACME.Web\\Models\\Ventas.cs",
@@ -1030,7 +1043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "AddVenta.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVenta.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\AddVenta.cshtml",
@@ -1043,7 +1056,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Privacy.cshtml",
@@ -1056,7 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "ACME.Web\\Pages\\Index.cshtml",
@@ -1069,7 +1082,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "ClientesDto.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Common\\Dtos\\ClientesDto.cs",
               "RelativeDocumentMoniker": "ACME.Common\\Dtos\\ClientesDto.cs",
@@ -1082,7 +1095,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "HistorialController.cs",
               "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\HistorialController.cs",
               "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\HistorialController.cs",
@@ -1104,19 +1117,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-09T10:25:36.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml",
-              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T10:26:00.04Z",
               "EditorCaption": ""
             },
             {
