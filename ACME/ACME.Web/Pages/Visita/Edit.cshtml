@@ -1,0 +1,66 @@
+﻿@page
+@model ACME.Web.Pages.Visita.EditModel
+@{
+    ViewData["Title"] = $"Visita";
+}
+<h4>Visita</h4>
+<hr />
+<form method="post">
+    <input hidden="hidden" asp-for="IdVisita" />
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <b>Cliente:</b>
+    <br />
+    <select asp-for="Cliente" asp-items="@(new SelectList(Model.Clientes, "Id", "Nombre" ))">
+        <option selected disabled value="">Seleccione un cliente</option>
+    </select>
+    <br />
+    <b>Número de ventas:</b>
+    <br />
+    <input asp-for="NumeroVentas" class="control-input" disabled="disabled" />
+    <br />
+    <b>Precio Total:</b>
+    <br />
+    <input asp-for="TotalVentas" class="control-input" disabled="disabled" />
+    <br />
+    <button type="submit" class="btn btn-primary btn-block btn-large">Guardar</button>
+</form>
+
+<div style="overflow-x: auto;">
+    <table name="tableVentas" class="styled-table">
+        <thead>
+            <tr>
+                <th>Cliente</th>
+                <th>Producto</th>
+                <th>Unidades</th>
+                <th>Precio Unitario</th>
+                <th>Precio Total</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var venta in Model.VentasView) @* (int i = 0; i < Model.VentasView.Count; i++) *@
+            {
+                <tr class='clickable'>
+                    <td hidden="hidden">@venta.Id</td>
+                    <td onclick=" window.location='./EditarVenta?Id=@venta.Id'">@venta.Cliente</td>
+                    <td onclick=" window.location='./EditarVenta?Id=@venta.Id'">@venta.Producto</td>
+                    <td onclick=" window.location='./EditarVenta?Id=@venta.Id'">@venta.Unidades</td>
+                    <td onclick=" window.location='./EditarVenta?Id=@venta.Id'">@venta.PrecioUnitario €</td>
+                    <td onclick=" window.location='./EditarVenta?Id=@venta.Id'">@venta.PrecioTotal €</td>
+                    <td><button onclick=" window.location='./DeleteVenta?Id=@venta.Id'" class="btn btn-primary btn-block btn-large">Borrar</button></td>
+                </tr>
+            }
+
+            <tr class='clickable'>
+                <td hidden="hidden"></td>
+                <td onclick=" window.location='./AddVenta?Id=@Model.Visita.Id'">Nueva venta</td>
+                <td onclick=" window.location='./AddVenta?Id=@Model.Visita.Id'">+</td>
+                <td onclick=" window.location='./AddVenta?Id=@Model.Visita.Id'">+</td>
+                <td onclick=" window.location='./AddVenta?Id=@Model.Visita.Id'">+</td>
+                <td onclick=" window.location='./AddVenta?Id=@Model.Visita.Id'">+</td>
+                <td onclick=" window.location='./AddVenta?Id=@Model.Visita.Id'">+</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+

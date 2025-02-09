@@ -1,0 +1,58 @@
+﻿@page
+@model ACME.Web.Pages.Venta.EditModel
+@{
+    ViewData["Title"] = "Editar venta";
+}
+
+<b>Editar Venta</b>
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<form method="post">
+    <br />
+    <input hidden="hidden" asp-for="IdVisita" />
+    <input hidden="hidden" asp-for="IdVenta" />
+    <input class="control-input" disabled="disabled" value="Visita del día @Model.Venta.Visita.Fecha.ToString("dd/MM/yyyy")" />
+    <br />
+    <b>Producto</b>
+    <br />
+    <select required="true" asp-for="Producto" asp-items="@(new SelectList(Model.Productos, "Id", "Nombre" ))">
+        <option selected disabled value="">Seleccione un producto</option>
+    </select>
+    <br />
+    <b>Precio Unitario</b>
+    <br />
+    <input id="inputPrecioUnitario" onchange="myFunction()" asp-for="PrecioUnitario" class="control-input" />
+    <br />
+    <b>Cantidad</b>
+    <br />
+    <input id="inputUnidades" onchange="myFunction()" asp-for="Unidades" class="control-input" />
+    <br />
+    <b>Precio Total</b>
+    <br />
+    <input id="inputPrecioTotal" asp-for="PrecioTotal" class="control-input" disabled="disabled" />
+    <br />
+    <button type="submit" class="btn btn-primary btn-block btn-large">Modificar</button>
+</form>
+
+
+<script>
+    function myFunction() {
+      // Declare variables
+      var unidades, precioUnitario, precioTotal, tr, td, i, txtValue;
+      unidades = document.getElementById("inputUnidades");
+      if(unidades.value == "")
+      {
+          unidades.value= "0";
+      }
+      precioUnitario = document.getElementById("inputPrecioUnitario");
+      if(precioUnitario.value == "")
+      {
+          precioUnitario.value="0";
+      }
+      precioTotal = document.getElementById("inputPrecioTotal");
+
+      var resPrecioTotal = Number(unidades.value) * Number(precioUnitario.value);
+
+      precioTotal.value = resPrecioTotal;
+
+    }
+</script>

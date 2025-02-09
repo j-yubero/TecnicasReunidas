@@ -1,0 +1,20 @@
+﻿@page
+@model ACME.Web.Pages.Cliente.AddModel
+@{
+    ViewData["Title"] = $"Añadir Cliente";
+}
+
+<h4>Nuevo Cliente</h4>
+<hr />
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <b>Nombre</b>
+    <br />
+    <input asp-for="Name" class="control-input" />
+    <br />
+    <b>Dirección</b>
+    <br />
+    <input asp-for="Direccion" class="control-input" />
+    <br />
+    <button type="submit" class="btn btn-primary btn-block btn-large">Guardar</button>
+</form>

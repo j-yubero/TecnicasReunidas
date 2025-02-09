@@ -1,0 +1,33 @@
+﻿@page
+@model ACME.Web.Pages.Usuario.EditModel
+@{
+    ViewData["Title"] = $"Editar Usuario";
+}
+
+<h4>Editar Usuario</h4>
+<hr />
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input hidden="hidden" asp-for="Id" />
+    <b>Nombre</b>
+    <br />
+    <input asp-for="Name" class="control-input" />
+    <br />
+    <b>UserName</b>
+    <br />
+    <input asp-for="UserName" class="control-input" />
+    <br />
+    <b>Password</b>
+    <br />
+    <b>Rol</b>
+    <br />
+    <select required="true" asp-for="Rol" asp-items="@(new SelectList(Model.Roles, "Id", "Nombre" ))">
+        <option selected disabled value="">Seleccione un rol</option>
+    </select>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary btn-block btn-large">Modificar</button>
+</form>
+
+

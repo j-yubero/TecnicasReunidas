@@ -1,0 +1,75 @@
+﻿@page
+@model ACME.Web.Pages.Usuario.IndexModel
+@{
+    ViewData["Title"] = "Ventas";
+}
+
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Xsrf
+@Html.AntiForgeryToken()
+
+
+<h4>Usuarios</h4>
+<hr />
+<div style="overflow-x: auto;">
+    <input type="text" id="FiltroVisitas" onkeyup="myFunction()" placeholder="Nombre...">
+    <table id="tablaVisitas" class="styled-table">
+        <thead>
+            <tr>
+                <th>UserName</th>
+                <th>Nombre</th>
+                <th>Editar Visitas</th>
+                <th>Editar Clientes</th>
+                <th>Editar Ventas</th>
+                <th>Editar Usuarios</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Usuarios.Count; i++)
+            {
+                <tr class='clickable'>
+                    <td hidden="hidden">@Model.Usuarios[i].Id</td>
+                    <td onclick=" window.location='./Usuario/Edit?Id=@Model.Usuarios[i].Id'">@Model.Usuarios[i].Usuario</td>
+                    <td onclick=" window.location='./Usuario/Edit?Id=@Model.Usuarios[i].Id'">@Model.Usuarios[i].Nombre</td>
+                    <td onclick=" window.location='./Usuario/Edit?Id=@Model.Usuarios[i].Id'">@(Model.Usuarios[i].Rol.CUDVisitas ? "Si" : "No")</td>
+                    <td onclick=" window.location='./Usuario/Edit?Id=@Model.Usuarios[i].Id'">@(Model.Usuarios[i].Rol.CUDClientes ? "Si" : "No")</td>
+                    <td onclick=" window.location='./Usuario/Edit?Id=@Model.Usuarios[i].Id'">@(Model.Usuarios[i].Rol.CUDVentas ? "Si" : "No")</td>
+                    <td onclick=" window.location='./Usuario/Edit?Id=@Model.Usuarios[i].Id'">@(Model.Usuarios[i].Rol.CUDUsuarios ? "Si" : "No")</td>
+                    <td><button class="btn btn-primary btn-block btn-large" onclick=" window.location='./Usuario/Delete?Id=@Model.Usuarios[i].Id'">Borrar</button></td>
+                </tr>
+            }
+            <tr class='clickable'>
+                <td hidden="hidden">@Guid.Empty</td>
+                <td onclick=" window.location='./Usuario/Add'">Nuevo usuario</td>
+                <td onclick=" window.location='./Usuario/Add'">+</td>
+                <td onclick=" window.location='./Usuario/Add'">+</td>
+                <td onclick=" window.location='./Usuario/Add'">+</td>
+                <td onclick=" window.location='./Usuario/Add'">+</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function myFunction() {
+      // Declare variables
+      var input, filter, table, tr, td, i, txtValue;
+      input = document.getElementById("FiltroVisitas");
+      filter = input.value.toUpperCase();
+      table = document.getElementById("tablaVisitas");
+      tr = table.getElementsByTagName("tr");
+
+      // Loop through all table rows, and hide those who don't match the search query
+      for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")[2]; //cliente
+        if (td) {
+          txtValue = td.textContent || td.innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            tr[i].style.display = "";
+          } else {
+            tr[i].style.display = "none";
+          }
+        }
+      }
+    }
+</script>

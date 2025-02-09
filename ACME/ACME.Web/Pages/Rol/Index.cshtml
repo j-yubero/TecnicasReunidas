@@ -1,0 +1,64 @@
+﻿@page
+@model ACME.Web.Pages.Rol.IndexModel
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Xsrf
+@Html.AntiForgeryToken()
+
+
+<h4>Clientes</h4>
+<hr />
+<div style="overflow-x: auto;">
+    <input type="text" id="FiltroCliente" onkeyup="myFunction()" placeholder="Nombre...">
+    <table id="tablaCliente" class="styled-table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Editar Visitas</th>
+                <th>Editar Clientes</th>
+                <th>Editar Ventas</th>
+                <th>Editar Usuarios</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Roles.Count; i++)
+            {
+                <tr class='clickable'>
+                    <td hidden="hidden">@Model.Roles[i].Id</td>
+                    <td>@Model.Roles[i].Nombre</td>
+                    <td>@(Model.Roles[i].CUDVisitas ? "Si" : "No")</td>
+                    <td>@(Model.Roles[i].CUDClientes ? "Si" : "No")</td>
+                    <td>@(Model.Roles[i].CUDVentas ? "Si" : "No")</td>
+                    <td>@(Model.Roles[i].CUDUsuarios ? "Si" : "No")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function myFunction() {
+      // Declare variables
+      var input, filter, table, tr, td, i, txtValue;
+      input = document.getElementById("FiltroCliente");
+      filter = input.value.toUpperCase();
+      table = document.getElementById("tablaCliente");
+      tr = table.getElementsByTagName("tr");
+
+      // Loop through all table rows, and hide those who don't match the search query
+      for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")[2]; //cliente
+        if (td) {
+          txtValue = td.textContent || td.innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            tr[i].style.display = "";
+          } else {
+            tr[i].style.display = "none";
+          }
+        }
+      }
+    }
+</script>

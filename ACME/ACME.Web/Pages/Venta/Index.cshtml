@@ -1,0 +1,65 @@
+﻿@page
+@model ACME.Web.Pages.Venta.IndexModel
+@{
+    ViewData["Title"] = "Ventas";
+}
+
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Xsrf
+@Html.AntiForgeryToken()
+
+
+<h4>Ventas</h4>
+<hr />
+<div style="overflow-x: auto;">
+    <input type="text" id="FiltroVisitas" onkeyup="myFunction()" placeholder="Producto...">
+    <table id="tablaVisitas" class="styled-table">
+        <thead>
+            <tr>
+                <th>Cliente</th>
+                <th>Producto</th>
+                <th>Unidades</th>
+                <th>Precio Unitario</th>
+                <th>Precio Total</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Ventas.Count; i++)
+            {
+                <tr class='clickable'>
+                    <td hidden="hidden">@Model.Ventas[i].Id</td>
+                    <td onclick=" window.location='./Venta/Edit?Id=@Model.Ventas[i].Id'">@Model.Ventas[i].Cliente</td>
+                    <td onclick=" window.location='./Venta/Edit?Id=@Model.Ventas[i].Id'">@Model.Ventas[i].Producto</td>
+                    <td onclick=" window.location='./Venta/Edit?Id=@Model.Ventas[i].Id'">@Model.Ventas[i].Unidades</td>
+                    <td onclick=" window.location='./Venta/Edit?Id=@Model.Ventas[i].Id'">@Model.Ventas[i].PrecioUnitario €</td>
+                    <td onclick=" window.location='./Venta/Edit?Id=@Model.Ventas[i].Id'">@Model.Ventas[i].PrecioTotal €</td>
+                    <td><button class="btn btn-primary btn-block btn-large" onclick=" window.location='./Venta/Delete?Id=@Model.Ventas[i].Id'">Borrar</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function myFunction() {
+      // Declare variables
+      var input, filter, table, tr, td, i, txtValue;
+      input = document.getElementById("FiltroVisitas");
+      filter = input.value.toUpperCase();
+      table = document.getElementById("tablaVisitas");
+      tr = table.getElementsByTagName("tr");
+
+      // Loop through all table rows, and hide those who don't match the search query
+      for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")[2]; //cliente
+        if (td) {
+          txtValue = td.textContent || td.innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            tr[i].style.display = "";
+          } else {
+            tr[i].style.display = "none";
+          }
+        }
+      }
+    }
+</script>

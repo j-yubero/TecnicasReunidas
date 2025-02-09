@@ -1,0 +1,74 @@
+﻿@page
+@model ACME.Web.Pages.Visita.IndexModel
+@{
+    ViewData["Title"] = "Visitas";
+}
+
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Xsrf
+@Html.AntiForgeryToken()
+
+<h4>Visitas</h4>
+<hr />
+<div style="overflow-x: auto;">
+    <input type="text" id="FiltroVisitas" onkeyup="myFunction()" placeholder="Cliente...">
+    <table id="tablaVisitas" class="styled-table">
+        <thead>
+            <tr>
+                <th>Nombre de usuario</th>
+                <th>Cliente</th>
+                <th>Número de Ventas</th>
+                <th>Precio Total</th>
+                <th>Fecha</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Visitas.Count; i++)
+            {
+                <tr class='clickable' >
+                    <td hidden="hidden">@Model.Visitas[i].Id</td>
+                    <td onclick=" window.location='./Visita/Edit?Id=@Model.Visitas[i].Id'">@Model.Visitas[i].Username</td>
+                    <td onclick=" window.location='./Visita/Edit?Id=@Model.Visitas[i].Id'">@Model.Visitas[i].Cliente</td>
+                    <td onclick=" window.location='./Visita/Edit?Id=@Model.Visitas[i].Id'">@Model.Visitas[i].NumeroVentas</td>
+                    <td onclick=" window.location='./Visita/Edit?Id=@Model.Visitas[i].Id'">@Model.Visitas[i].TotalVentas €</td>
+                    <td onclick=" window.location='./Visita/Edit?Id=@Model.Visitas[i].Id'">@Model.Visitas[i].Fecha</td>
+                    <td><button class="btn btn-primary btn-block btn-large" onclick=" window.location='./Visita/Delete?Id=@Model.Visitas[i].Id'">Borrar</button></td>
+                </tr>
+            }
+            <tr class='clickable'>
+                <td hidden="hidden">@Guid.Empty</td>
+                <td onclick=" window.location='./Visita/AddVisita'">Nueva venta</td>
+                <td onclick=" window.location='./Visita/AddVisita'">+</td>
+                <td onclick=" window.location='./Visita/AddVisita'">+</td>
+                <td onclick=" window.location='./Visita/AddVisita'">+</td>
+                <td onclick=" window.location='./Visita/AddVisita'">+</td>
+                <td onclick=" window.location='./Visita/AddVisita'">+</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function myFunction() {
+      // Declare variables
+      var input, filter, table, tr, td, i, txtValue;
+      input = document.getElementById("FiltroVisitas");
+      filter = input.value.toUpperCase();
+      table = document.getElementById("tablaVisitas");
+      tr = table.getElementsByTagName("tr");
+
+      // Loop through all table rows, and hide those who don't match the search query
+      for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")[2]; //cliente
+        if (td) {
+          txtValue = td.textContent || td.innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            tr[i].style.display = "";
+          } else {
+            tr[i].style.display = "none";
+          }
+        }
+      }
+    }
+</script>
+

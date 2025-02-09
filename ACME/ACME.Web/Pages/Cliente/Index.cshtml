@@ -1,0 +1,64 @@
+﻿@page
+@model ACME.Web.Pages.Cliente.IndexModel
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Xsrf
+@Html.AntiForgeryToken()
+
+
+<h4>Clientes</h4>
+<hr />
+<div style="overflow-x: auto;">
+    <input type="text" id="FiltroCliente" onkeyup="myFunction()" placeholder="Nombre...">
+    <table id="tablaCliente" class="styled-table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Dirección</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Clientes.Count; i++)
+            {
+                <tr class='clickable'>
+                    <td hidden="hidden">@Model.Clientes[i].Id</td>
+                    <td onclick=" window.location='./Cliente/Edit?Id=@Model.Clientes[i].Id'">@Model.Clientes[i].Nombre</td>
+                    <td onclick=" window.location='./Cliente/Edit?Id=@Model.Clientes[i].Id'">@Model.Clientes[i].Direccion</td>
+                    <td><button class="btn btn-primary btn-block btn-large" onclick=" window.location='./Cliente/Delete?Id=@Model.Clientes[i].Id'">Borrar</button></td>
+                </tr>
+            }
+            <tr class='clickable'>
+                <td hidden="hidden">@Guid.Empty</td>
+                <td onclick=" window.location='./Cliente/Add'">Nuevo cliente</td>
+                <td onclick=" window.location='./Cliente/Add'">+</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function myFunction() {
+      // Declare variables
+      var input, filter, table, tr, td, i, txtValue;
+      input = document.getElementById("FiltroCliente");
+      filter = input.value.toUpperCase();
+      table = document.getElementById("tablaCliente");
+      tr = table.getElementsByTagName("tr");
+
+      // Loop through all table rows, and hide those who don't match the search query
+      for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")[1];
+        if (td) {
+          txtValue = td.textContent || td.innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            tr[i].style.display = "";
+          } else {
+            tr[i].style.display = "none";
+          }
+        }
+      }
+    }
+</script>

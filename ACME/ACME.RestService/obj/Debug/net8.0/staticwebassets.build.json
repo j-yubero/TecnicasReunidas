@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5jALC0lr1Rm15awCcxHLPcw3aiCra68oLnAAKeSusgc=",
+  "Source": "ACME.RestService",
+  "BasePath": "_content/ACME.RestService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

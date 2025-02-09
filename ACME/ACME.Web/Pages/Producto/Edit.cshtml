@@ -1,0 +1,29 @@
+﻿@page
+@model ACME.Web.Pages.Producto.EditModel
+@{
+    ViewData["Title"] = "Editar Producto";
+}
+
+<b>Editar Venta</b>
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<form method="post">
+    <br />
+    <input hidden="hidden" asp-for="IdProducto" />
+    <b>Nombre</b>
+    <br />
+    <input asp-for="Name" class="control-input" />
+    <br />
+    <b>Descripción</b>
+    <br />
+    <input asp-for="Description" class="control-input" />
+    <br />
+    <b>Precio Unitario</b>
+    <br />
+    <input asp-for="Precio" class="control-input" />
+    <br />
+    <b>Stock</b>
+    <br />
+    <input class="control-input" asp-for="Stock" />
+    <br />
+    <button type="submit" class="btn btn-primary btn-block btn-large">Modificar</button>
+</form>

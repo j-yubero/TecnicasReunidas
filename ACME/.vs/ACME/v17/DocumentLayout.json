@@ -1,0 +1,1405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD97322-5568-4D54-9225-203C0F035178}|ACME.Common\\ACME.Common.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.common\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD97322-5568-4D54-9225-203C0F035178}|ACME.Common\\ACME.Common.csproj|solutionrelative:acme.common\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\usuario\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\usuario\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\cliente\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\cliente\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\venta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\venta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\rol\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\rol\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\cliente\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\cliente\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\producto\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\producto\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\controllers\\visitascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\controllers\\visitascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\cliente\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\cliente\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\producto\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\producto\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\producto\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\producto\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\venta\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\venta\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\producto\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\producto\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\venta\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\venta\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\venta\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\venta\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\venta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\venta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\editarventa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\editarventa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\editarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\editarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\deleteventa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\deleteventa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\deleteventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\deleteventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\addventa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\addventa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\addvisita.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\addvisita.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\repositories\\models\\visitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\repositories\\models\\visitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\repositories\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\repositories\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\addvisita.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\addvisita.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\producto\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\producto\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\cliente\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\cliente\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\venta\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\venta\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD97322-5568-4D54-9225-203C0F035178}|ACME.Common\\ACME.Common.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.common\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD97322-5568-4D54-9225-203C0F035178}|ACME.Common\\ACME.Common.csproj|solutionrelative:acme.common\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\visita\\addventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\visita\\addventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD97322-5568-4D54-9225-203C0F035178}|ACME.Common\\ACME.Common.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.common\\dtos\\clientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD97322-5568-4D54-9225-203C0F035178}|ACME.Common\\ACME.Common.csproj|solutionrelative:acme.common\\dtos\\clientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\rol\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\rol\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\cliente\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\cliente\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\wwwroot\\css\\siteindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\wwwroot\\css\\siteindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\shared\\_layoutindex.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\shared\\_layoutindex.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\migrations\\20250206174646_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\migrations\\20250206174646_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\repositories\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\repositories\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.restservice\\repositories\\models\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26748F8-2EC2-4323-8A96-A41BD1E8AEE9}|ACME.RestService\\ACME.RestService.csproj|solutionrelative:acme.restservice\\repositories\\models\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\models\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\models\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|c:\\users\\jorge.yubero\\desktop\\personal\\tecnicas reunidas\\acme project\\acme\\acme.web\\acme.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7024F36B-E729-465B-8486-668EDD46C52E}|ACME.Web\\ACME.Web.csproj|solutionrelative:acme.web\\acme.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Edit.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Venta\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T08:21:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Index.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:07:33.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ACME.RestService\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAN0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:41:36.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Common\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "ACME.Common\\Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Common\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "ACME.Common\\Dtos\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T08:16:09.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Add.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Add.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Add.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Add.cshtml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAawDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:32:28.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T10:26:00.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:24:12.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:08:55.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T11:47:22.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Add.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Add.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Add.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Cliente\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T19:33:15.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Edit.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T12:01:01.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Add.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Usuario\\Add.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Usuario\\Add.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Usuario\\Add.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T20:32:27.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Rol\\Index.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Rol\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Rol\\Index.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Rol\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T10:01:25.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\RolController.cs",
+              "RelativeToolTip": "ACME.RestService\\Controllers\\RolController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:03:35.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Edit.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Producto\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswFIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:42:35.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T12:03:00.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Add.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Add.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Add.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Add.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Cliente\\Add.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:38:47.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VisitasController.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\VisitasController.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\VisitasController.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\VisitasController.cs",
+              "RelativeToolTip": "ACME.RestService\\Controllers\\VisitasController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAuwLgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:03:03.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ACME.RestService\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAAPoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:08:39.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Cliente\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T12:02:54.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Edit.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Cliente\\Edit.cshtml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:06:26.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Edit.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\Edit.cshtml.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAcwJsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:01:13.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Add.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Add.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Add.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Producto\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T18:29:44.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Add.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Add.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Add.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Add.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Producto\\Add.cshtml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:29:47.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAEwC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:02:33.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Index.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Venta\\Index.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:23:06.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Edit.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\Edit.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T10:01:04.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ACME.RestService\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwGUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:25:56.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Index.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Producto\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T09:42:15.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Index.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Producto\\Index.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvzsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:42:18.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Producto\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T09:42:43.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "ACME.RestService\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:51:43.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Delete.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Venta\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:44:14.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Index.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Index.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Venta\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T08:21:32.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Edit.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Venta\\Edit.cshtml.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAzwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:23:11.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Index.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\Index.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:21:35.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DeleteVenta.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:30:00.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EditarVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\EditarVenta.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\EditarVenta.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\EditarVenta.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\EditarVenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T18:09:14.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EditarVenta.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\EditarVenta.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\EditarVenta.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\EditarVenta.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\EditarVenta.cshtml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:09:57.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Index.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Index.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T13:21:37.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DeleteVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\DeleteVenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T15:29:50.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddVenta.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVenta.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\AddVenta.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVenta.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\AddVenta.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:19:58.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddVisita.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVisita.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\AddVisita.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVisita.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\AddVisita.cshtml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:41:16.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Delete.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:25:42.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Repositories\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\Models\\Usuarios.cs",
+              "RelativeToolTip": "ACME.RestService\\Repositories\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:48:04.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddVisita.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVisita.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\AddVisita.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVisita.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\AddVisita.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T16:20:12.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Visitas.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\Models\\Visitas.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Repositories\\Models\\Visitas.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\Models\\Visitas.cs",
+              "RelativeToolTip": "ACME.RestService\\Repositories\\Models\\Visitas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:13:20.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Delete.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Producto\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:24:54.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Delete.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Cliente\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:25:15.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "VentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Common\\Dtos\\VentaDto.cs",
+              "RelativeDocumentMoniker": "ACME.Common\\Dtos\\VentaDto.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Common\\Dtos\\VentaDto.cs",
+              "RelativeToolTip": "ACME.Common\\Dtos\\VentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:18:18.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Venta\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Venta\\Delete.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Venta\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T09:44:06.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\Delete.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T17:25:18.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Models\\Ventas.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Models\\Ventas.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Models\\Ventas.cs",
+              "RelativeToolTip": "ACME.Web\\Models\\Ventas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:19:22.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AddVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVenta.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Visita\\AddVenta.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Visita\\AddVenta.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Visita\\AddVenta.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T11:17:53.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T13:31:49.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T13:30:51.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ClientesDto.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Common\\Dtos\\ClientesDto.cs",
+              "RelativeDocumentMoniker": "ACME.Common\\Dtos\\ClientesDto.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Common\\Dtos\\ClientesDto.cs",
+              "RelativeToolTip": "ACME.Common\\Dtos\\ClientesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:17:47.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "HistorialController.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\HistorialController.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Controllers\\HistorialController.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Controllers\\HistorialController.cs",
+              "RelativeToolTip": "ACME.RestService\\Controllers\\HistorialController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwHoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:25:33.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Producto\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Producto\\Delete.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Producto\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T10:25:36.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Delete.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Cliente\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T10:25:27.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Rol\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Rol\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Rol\\Index.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Rol\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:01:29.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Models\\Roles.cs",
+              "RelativeToolTip": "ACME.Web\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:49:32.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Cliente\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Cliente\\Index.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Cliente\\Index.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:04:13.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T08:58:20.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Models\\Usuarios.cs",
+              "RelativeToolTip": "ACME.Web\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:47:44.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T20:48:22.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ACME.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ACME.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAYwOoAAABCAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-07T18:46:45.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Repositories\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ACME.RestService\\Repositories\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:43:24.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Program.cs",
+              "RelativeToolTip": "ACME.Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:46:09.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20250206174646_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Migrations\\20250206174646_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Migrations\\20250206174646_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Migrations\\20250206174646_InitialCreate.cs",
+              "RelativeToolTip": "ACME.RestService\\Migrations\\20250206174646_InitialCreate.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAUwOgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:46:47.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\Models\\Ventas.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Repositories\\Models\\Ventas.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\Models\\Ventas.cs",
+              "RelativeToolTip": "ACME.RestService\\Repositories\\Models\\Ventas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:03:29.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Models\\Productos.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Models\\Productos.cs",
+              "RelativeToolTip": "ACME.Web\\Models\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:33:29.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "siteIndex.css",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\wwwroot\\css\\siteIndex.css",
+              "RelativeDocumentMoniker": "ACME.Web\\wwwroot\\css\\siteIndex.css",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\wwwroot\\css\\siteIndex.css",
+              "RelativeToolTip": "ACME.Web\\wwwroot\\css\\siteIndex.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-06T09:41:28.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Historial.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\Models\\Historial.cs",
+              "RelativeDocumentMoniker": "ACME.RestService\\Repositories\\Models\\Historial.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.RestService\\Repositories\\Models\\Historial.cs",
+              "RelativeToolTip": "ACME.RestService\\Repositories\\Models\\Historial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:32:54.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ACME.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\appsettings.json",
+              "RelativeToolTip": "ACME.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T13:31:55.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ACME.Web\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-05T13:49:12.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_LayoutIndex.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Shared\\_LayoutIndex.cshtml.css",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Shared\\_LayoutIndex.cshtml.css",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Shared\\_LayoutIndex.cshtml.css",
+              "RelativeToolTip": "ACME.Web\\Pages\\Shared\\_LayoutIndex.cshtml.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-05T13:49:14.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "ACME.Web\\Pages\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T13:49:16.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Models\\Credentials.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Models\\Credentials.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Models\\Credentials.cs",
+              "RelativeToolTip": "ACME.Web\\Models\\Credentials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:04:00.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "ACME.Web\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "ACME.Web\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:51:07.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ACME.Web",
+              "DocumentMoniker": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\ACME.Web.csproj",
+              "RelativeDocumentMoniker": "ACME.Web\\ACME.Web.csproj",
+              "ToolTip": "C:\\Users\\jorge.yubero\\Desktop\\Personal\\Tecnicas reunidas\\ACME Project\\ACME\\ACME.Web\\ACME.Web.csproj",
+              "RelativeToolTip": "ACME.Web\\ACME.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T13:09:27.683Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

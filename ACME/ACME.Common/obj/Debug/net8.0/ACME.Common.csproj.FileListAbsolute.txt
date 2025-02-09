@@ -1,0 +1,12 @@
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\bin\Debug\net8.0\ACME.Common.deps.json
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\bin\Debug\net8.0\ACME.Common.dll
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\bin\Debug\net8.0\ACME.Common.pdb
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\obj\Debug\net8.0\ACME.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\obj\Debug\net8.0\ACME.Common.AssemblyInfoInputs.cache
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\obj\Debug\net8.0\ACME.Common.AssemblyInfo.cs
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\obj\Debug\net8.0\ACME.Common.csproj.CoreCompileInputs.cache
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\obj\Debug\net8.0\ACME.Common.sourcelink.json
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\obj\Debug\net8.0\ACME.Common.dll
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\obj\Debug\net8.0\refint\ACME.Common.dll
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\obj\Debug\net8.0\ACME.Common.pdb
+C:\Users\jorge.yubero\Desktop\Personal\Tecnicas reunidas\ACME Project\ACME\ACME.Common\obj\Debug\net8.0\ref\ACME.Common.dll

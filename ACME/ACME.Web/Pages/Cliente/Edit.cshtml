@@ -1,0 +1,46 @@
+﻿@page
+@model ACME.Web.Pages.Cliente.EditModel
+@{
+    ViewData["Title"] = $"Editar Cliente";
+}
+
+<h4>Editar Cliente</h4>
+<hr />
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input hidden="hidden" asp-for="Id" />
+    <b>Nombre</b>
+    <br />
+    <input asp-for="Name" class="control-input" />
+    <br />
+    <b>Dirección</b>
+    <br />
+    <input asp-for="Direccion" class="control-input" />
+    <br />
+    <button type="submit" class="btn btn-primary btn-block btn-large">Guardar</button>
+</form>
+
+<div style="overflow-x: auto;">
+    <table name="tableVentas" class="styled-table">
+        <thead>
+            <tr>
+                <th>Vendedor</th>
+                <th>Número de ventas</th>
+                <th>Precio Total</th>
+                <th>Fecha</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var visita in Model.Visitas) @* (int i = 0; i < Model.VentasView.Count; i++) *@
+            {
+                <tr class='clickable'>
+                    <td>@visita.Username</td>
+                    <td>@visita.NumeroVentas</td>
+                    <td>@visita.TotalVentas €</td>
+                    <td>@visita.Fecha</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
